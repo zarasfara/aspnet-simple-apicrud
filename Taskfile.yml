@@ -1,0 +1,12 @@
+version: '3'
+
+tasks:
+  update-db:
+    cmds:
+      - dotnet ef database update --project DAL --startup-project WebApplication
+    silent: true
+  
+  create-migration:
+    cmds:
+      - dotnet ef migrations add {{.name}} --project DAL --startup-project WebApplication
+    silent: true

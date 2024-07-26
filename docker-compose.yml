@@ -1,0 +1,26 @@
+﻿services:
+  webapplication:
+    image: webapplication
+    build:
+      context: .
+      dockerfile: WebApplication/Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - 12003:8080
+      
+  db:
+    image: postgres:latest
+    restart: always
+    environment:
+      - POSTGRES_PASSWORD=pass
+      - POSTGRES_DB=crud
+      - POSTGRES_USER=root
+    ports:
+      - 12001:5432
+        
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 12002:8080

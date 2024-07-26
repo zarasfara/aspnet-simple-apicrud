@@ -1,0 +1,14 @@
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\oev20\OneDrive\Рабочий стол\dev\c#\WebApplication\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
